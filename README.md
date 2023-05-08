@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yogesh Mhaddalkar</h1>
 <h3 align="center">I am a AWS Certified Cloud Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F6129020-Cloud-Computing&psig=AOvVaw2PxZbEIT_-oSh8pEuFtbfz&ust=1683654754746000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjmnu6k5v4CFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1912990/screenshots/6129020/media/5de7b1748ffb5977fc77840b16f939c5.gif">
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshtm&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshtm" /> </p>
 
